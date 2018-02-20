@@ -17,7 +17,12 @@ header p span{
   border-bottom: 10px red solid;
   border-right: 10px red solid;
   border-left: 10px red solid;*/
-    border:10px red solid;
-    padding: :10px blue solid;
-    margin:10px yellow solid;
+
+}
+/* this section is about putting two divs side by side */
+.container{
+  max-width: 940px;/*This is to give a maximum width to a container or a div. */
+/* This is to center the container*/
+  margin-right: auto;
+  margin-left: auto;
 }
